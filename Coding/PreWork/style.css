@@ -1,0 +1,32 @@
+.center {
+    text-align:center
+}
+.blue {
+    color:blue
+}
+.red {
+    color:red
+}
+.green {
+    color:green
+}
+.orange {
+    color:orange
+}
+.big {
+    font-size: 50px
+}
+.tiny {
+    font-size: 8px
+}
+.bold {
+    font-weight:bold
+}
+.styledFont {
+    font-family:Impact, 'Arial Narrow Bold', sans-serif
+}
+#styledImage {
+    border-width: 15px;
+    border-style:double;
+    border-color:rebeccapurple
+}
